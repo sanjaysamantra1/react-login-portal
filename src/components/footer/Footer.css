@@ -1,0 +1,12 @@
+.footer {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+
+.footer h6, .footer p {
+    color: aliceblue;
+}

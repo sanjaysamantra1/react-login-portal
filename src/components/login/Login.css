@@ -1,0 +1,27 @@
+.container {
+    display : flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.form-outline {
+    padding-bottom: 20px;
+}
+
+.signup {
+    padding-top: 20px;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
